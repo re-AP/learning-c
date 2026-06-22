@@ -14,3 +14,11 @@
 - Felt: slow and sleepy at start , picked up pace and enjoyed later while solving 
 - Imp: This marks the restart after a long break due to multiple reasons but commits should be daily onwards.
 
+## Day 3 - 21/06/26 
+- Covered 1.3 , 2hr 30 min into LEC
+- Exercises 1-5
+- Confused by: NA
+- Felt: Today was a bad day since I only programmed just before sleep and for about 30 min , did it to maintain habit .
+- Imp: You need to be more consistent in the future and prioritze your time better even if its less .
+
+
