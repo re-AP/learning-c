@@ -21,4 +21,9 @@
 - Felt: Today was a bad day since I only programmed just before sleep and for about 30 min , did it to maintain habit .
 - Imp: You need to be more consistent in the future and prioritze your time better even if its less .
 
-
+## Day 4 - 30/06/26
+- Covered 1.4 , 1.5 and 1.5.1 , 2hr 45 min into lec 
+- Exercises 1-6 , 1-7 
+- Confused by : EOF character and how to use it 
+- Felt - Dont remember since i am writing this review late 
+- Imp : Find a flat in pune set everything up and by that time complete chapter 1 . Show up everyday .
