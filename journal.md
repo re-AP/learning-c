@@ -27,3 +27,8 @@
 - Confused by : EOF character and how to use it 
 - Felt - Dont remember since i am writing this review late 
 - Imp : Find a flat in pune set everything up and by that time complete chapter 1 . Show up everyday .
+
+##/*Gap from 30/06 - 10 /09/26 in which we covered whole 1.5 , 1.6 and 1.7 i know its less but it is consistent and i have been showing up that is still progress. Have patience and resilience*/
+
+## Day 5 - 12/11/26
+
