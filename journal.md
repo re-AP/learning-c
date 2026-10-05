@@ -28,7 +28,14 @@
 - Felt - Dont remember since i am writing this review late 
 - Imp : Find a flat in pune set everything up and by that time complete chapter 1 . Show up everyday .
 
-##/*Gap from 30/06 - 10 /09/26 in which we covered whole 1.5 , 1.6 and 1.7 i know its less but it is consistent and i have been showing up that is still progress. Have patience and resilience*/
+##/*Gap from 30/06 - 05/10/26 in which we covered whole 1.5 , 1.6 , 1.7 and 1.8 i know its less but it is consistent and i have been showing up that is still progress. Have patience and resilience*/
 
-## Day 5 - 12/11/26
+## Day 5 - 05/10/26
+-Covered 1.9 and started ex 1- 16
+-Confused by : getline is already included as a function in std library 
+                two runtime errors in the order of assignment eg. len = max instead max = len ;
+-Felt:nothing really got really discomforatble when debugging
+-Imp: keep phone away when working , work only in bedroom everythine else outside.
+
+
 
